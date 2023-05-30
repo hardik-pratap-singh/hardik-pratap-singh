@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 [codechef]: https://www.codechef.com/users/hardik_26
 [codeforces]: https://codeforces.com/profile/Jay_1
 
-
+![Profile views counter](https://komarev.com/ghpvc/?username=hardik-pratap-singh&&style=flat-square)  
 
 
