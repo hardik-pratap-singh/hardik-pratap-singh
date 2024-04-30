@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/hardikpratapsi3
 [instagram]: https://instagram.com/hardik_ps
 [linkedin]: https://linkedin.com/in/hardik-pratap-singh
-[codechef]: https://www.codechef.com/users/pyarelal
-[codeforces]: https://codeforces.com/profile/hardik_ps
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=hardik-pratap-singh&&style=flat-square)  
 
