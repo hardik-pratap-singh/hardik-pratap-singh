@@ -1,5 +1,5 @@
 ### Hi there, I am Hardik Pratap Singh 👋
-Pre-Final Year @ IIITDM Jabalpur
+Final Year @ IIITDM Jabalpur
 
 <!--
 
